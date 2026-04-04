@@ -6,10 +6,10 @@ Again pretty straightforward problem, the fact that you have to use a while loop
 
 # Complexity
 - Time complexity:
-$$O(n)$$
+  $$O(n)$$
 
 - Space complexity:
-$$O(1)$$
+  $$O(1)$$
 
 # Code
 ```java []
